@@ -58,7 +58,7 @@
 	};
 	gsensor_mtk:gsensor@15 {
 		compatible = "mediatek,gsensor";
-		reg = <0x15>;
+		reg = <0xe>;
 		status = "okay";
 	};
 	gyro_mtk:gyro@68 {
